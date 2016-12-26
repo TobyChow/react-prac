@@ -13,6 +13,6 @@
 - Webpack-dev-server
 
 ## Command Line
-- <npm run start> to start up a webpack server
-- <npm run production>
+- npm run start , to start up a webpack server
+- npm run production
 
